@@ -2,7 +2,7 @@ body
 {
 	background-color: black; 
 	font-family: Verdana;
-	font-size: 20px;
+	font-size: 26px;
 	color: white;
 	text-align:center;
 	
@@ -10,25 +10,8 @@ body
 
 h1
 {
-	font-size: 48px;
-	color: red !important;
+	font-size: 52px;
+	color: white;
 }
 
-/* Nieodwiedzony link */
-a:link
-{
-	color: green;
-}
 
-/* Odwiedzony link */
-a:visited
-{
-	color:green
-	;
-}
-
-/* Link po najechaniu kursorem */
-a:hover
-{
-	color: red;
-}
